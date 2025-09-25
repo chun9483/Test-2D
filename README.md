@@ -1,4 +1,4 @@
 # Test-2D
 
-
-conflict test2_local
+I do care.
+conflict test2_solve
