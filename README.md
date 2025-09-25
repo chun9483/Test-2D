@@ -1,2 +1,3 @@
 # Test-2D
-conflict test_local
+conflict test_solve
+
