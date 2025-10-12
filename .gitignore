@@ -73,3 +73,11 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+
+
+# Ignore Firebase native libs
+Assets/Firebase/Plugins/x86_64/*.bundle
+Assets/Firebase/Plugins/x86_64/*.so
+Assets/Firebase/Plugins/arm64-v8a/*.so
+Assets/Firebase/Plugins/armeabi-v7a/*.so
+Assets/Firebase/Plugins/**/*.aar

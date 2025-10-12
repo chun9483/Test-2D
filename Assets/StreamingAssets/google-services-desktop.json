@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "743652167545",
+    "project_id": "fir-emailauthdemo-6658d",
+    "storage_bucket": "fir-emailauthdemo-6658d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:743652167545:android:b8c0de6619b8f0bf0b69a8",
+        "android_client_info": {
+          "package_name": "com.yuki.firebaseemailauth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDA1ueb2lQopy2M_R1RskOSCSnNK2Qthaw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
